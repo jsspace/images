@@ -3,8 +3,10 @@
 this is a server to restore images to add in markdown
 ==
 ##How to do this
-ÎÒÃÇÖªµÀ£¬Markdown¼ÓÔØÍ¼Æ¬Óï·¨ÊÇÕâÑùµÄ
-£¡[description](url)
-ÕâÀïµÄurl¿ÉÒÔÊ¹±¾µØµØÖ·£¬µ«ÊÇ£¬Ò»µ©·Åµ½±ðµÄµØ·½¾Í¿´²»ÁËÁË¡£ÕâÊÇÎÒÃÇÐèÒªÒ»¸ö·þÎñÆ÷´æ´¢Í¼Æ¬¡£gitHub¾ÍÊÇÃâ·ÑµÄ´æÖüserver¡£
+æˆ‘ä»¬çŸ¥é“ï¼ŒMarkdownåŠ è½½å›¾ç‰‡è¯­æ³•æ˜¯è¿™æ ·çš„
+```
+ï¼[description](url)
+```
+è¿™é‡Œçš„urlå¯ä»¥ä½¿æœ¬åœ°åœ°å€ï¼Œä½†æ˜¯ï¼Œä¸€æ—¦æ”¾åˆ°åˆ«çš„åœ°æ–¹å°±çœ‹ä¸äº†äº†ã€‚è¿™æ˜¯æˆ‘ä»¬éœ€è¦ä¸€ä¸ªæœåŠ¡å™¨å­˜å‚¨å›¾ç‰‡ã€‚gitHubå°±æ˜¯å…è´¹çš„å­˜è´®serverã€‚
 
-´ò¿ªÍ¼Æ¬ËùÔÚÎ»ÖÃ£¬µã»÷`download`,»á³öÏÖÕû·ù»­£¬¸´ÖÆµØÖ·µ½urlÖÐ¼´¿ÉÍê³É¡£
+æ‰“å¼€å›¾ç‰‡æ‰€åœ¨ä½ç½®ï¼Œç‚¹å‡»`download`,ä¼šå‡ºçŽ°æ•´å¹…ç”»ï¼Œå¤åˆ¶åœ°å€åˆ°urlä¸­å³å¯å®Œæˆã€‚
